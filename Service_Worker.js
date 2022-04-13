@@ -64,7 +64,7 @@ const CACHE_NAME = 'Web',
 
     './registro_SW.js',
 
-    //'./images/icono/icon-512x512.png',
+    './icono/icon-512x512.png',
 
 
 
